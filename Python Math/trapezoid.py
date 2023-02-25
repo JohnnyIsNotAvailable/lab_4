@@ -1,0 +1,5 @@
+Height = int(input("Height: "))
+f_Value = int(input("Base, first value: "))
+s_value = int(input("Base, second value: "))
+ans = Height /2 * (f_Value + s_value)
+print("Expected Output: ", ans) 
